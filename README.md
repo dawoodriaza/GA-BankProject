@@ -38,14 +38,13 @@ This acts as a mini local database.
 - **Checking Account** (allows overdraft up to –100)
 - **Saving Account** (interest rate and minimum balance)
 
----
 
 ## OOP Concepts Used
 
 ### **Interfaces**
 `Currency`  
 Defines required methods for currency handling.
-### **✔ Abstract Classes**
+### **Abstract Classes**
 - `Account`
 - `AccountTransactions`
 - `Currencies`
@@ -53,7 +52,7 @@ Defines required methods for currency handling.
 
 These provide shared logic to avoid repeating code.
 
-### **✔ Concrete Classes**
+### ** Concrete Classes**
 - `CheckingAccount`
 - `SavingAccount`
 - `Customer`
@@ -90,6 +89,41 @@ src
 ├── StartingPoint.java (main entry point)
 ├── TitaniumCard.java
 └── User.java (interface)
+
+
+##  User Stories
+
+### 1. Secure Login
+As a user, i want to log into my bank account securely so that my personal financial data stays safe.
+
+### 2. View Account Balance
+As a user, i want to check my account balance so that I always know how much money i have.
+
+### 3. Deposit Money
+As a user,i want to deposit money so that I can increase my account balance.
+
+### 4. Withdraw Money with Notifications
+As a user, i want to withdraw money and receive a confirmation notification so i know the operation was successful.
+
+### 5. Overdraft Handling
+As a user, i want the system to warn me when a withdrawal will push my balance past the overdraft limit.
+
+### 6. Currency Conversion
+As a user, i want to convert money between multiple currencies (BHD, USD, EUR, GBP, SAR, PKR) so that i can understand the value of my balance internationally.
+
+### 7. View Transaction History
+As a user, i should be able to view the full history of my transactions to track my spending and deposits.
+
+### 8. Card Upgrades
+As a user, i want to upgrade my card (Standard , Platinum , Titanium) so i can enjoy better banking features.
+### 9. Admin Functionality
+As an admin, i want to view all customers, accounts, and logs so that i can manage the banking system effectively.
+### 10. File Persistence
+As a admin , i must see all the banks customer 
+### 11 Unblocking/Blocking
+As an admin, i can unblock users
+
+
 
 Technologies Used
 Java 17
