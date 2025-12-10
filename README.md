@@ -146,9 +146,9 @@ It:
 - Controls all user interactions  
 
 
-##ERD diagram
+## ERD diagram
 
-![BankOfDawood ERD](https://i.ibb.co/rRcg1wP2/image.png)
+![BankOfDawood ERD](https://iili.io/fR69VdG.png" alt="fR69VdG.png)
 
 
 ## References & Learning Resources
