@@ -135,18 +135,32 @@ Optional\
 Maps & Collections
 
 ##  How to Run the Project
+ **Run 'StartingPoint.main()'**
 
- Right-click the file  
-Click **Run 'StartingPoint.main()'**
 
-Why StartingPoint.java?
-`StartingPoint` is the **entry point** of the project.  
+
 It:
-- Loads customer & account files  
+- Loads customer & account and all necessary files  
 - Initializes the BankOfDawood system  
 - Shows the main menu  
 - Controls all user interactions  
 
+
+
+## References & Learning Resources
+
+### Trello Board (Project Tracking)
+https://trello.com/b/YPjGut6b/bank-of-dawood
+
+### YouTube Tutorials Used
+- PDF Generation Help:  
+  https://www.youtube.com/watch?v=SZEhv8tpT6U&list=PLFh8wpMiEi8-Yo59DBCasuVi1M29kQrvn
+
+- File Reading/Writing (Inspiration for BufferedReader & BufferedWriter approach):  
+  https://www.youtube.com/watch?v=SZEhv8tpT6U&list=PLFh8wpMiEi8-Yo59DBCasuVi1M29kQrvn
+
+
+  
 Author
 Muhammad Dawood Riaz
 Bahraini Software Engineer
