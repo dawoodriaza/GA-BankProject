@@ -148,7 +148,7 @@ It:
 
 ## ERD diagram
 
-![BankOfDawood ERD](https://iili.io/fR69VdG.png" alt="fR69VdG.png)
+![BankOfDawood ERD](https://iili.io/fR69VdG.png)
 
 
 ## References & Learning Resources
@@ -161,7 +161,7 @@ https://trello.com/b/YPjGut6b/bank-of-dawood
   https://www.youtube.com/watch?v=SZEhv8tpT6U&list=PLFh8wpMiEi8-Yo59DBCasuVi1M29kQrvn
 
 - File Reading/Writing (Inspiration for BufferedReader & BufferedWriter approach):  
-  https://www.youtube.com/watch?v=SZEhv8tpT6U&list=PLFh8wpMiEi8-Yo59DBCasuVi1M29kQrvn
+ https://www.w3schools.com/java/java_files.asp
 
 
   
